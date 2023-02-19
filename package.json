@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp-pro",
+  "version": "1.0.0",
+  "description": "chat application for group and indivisual chats",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Rohit Narulkar",
+  "license": "ISC",
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.0",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "framer-motion": "^9.0.2",
+    "mongoose": "^6.9.1",
+    "nodemon": "^2.0.20"
+  }
+}
